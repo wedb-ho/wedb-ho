@@ -7,10 +7,9 @@
 - 📫 연락 방법: 이메일
 
 ## 🎯 제 목표
-- 주요 오픈 소스 프로젝트에 기여하여 개발자 커뮤니티에 긍정적인 영향을 미치고자 합니다.
+- 오픈 소스 프로젝트에 기여해보는것!
 - 개발 및 배포 프로세스를 간소화할 수 있는 DevOps 도구를 마스터하고자 합니다.
 - 최신 기술 동향을 지속적으로 업데이트하며 기술을 향상시키고자 합니다.
-
 
 <!---
 wedb-ho/wedb-ho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
